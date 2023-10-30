@@ -1,1 +1,2 @@
-# E-commerce-Store
+# Redux-Store
+Extra Credit Assignment
